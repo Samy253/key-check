@@ -10,4 +10,4 @@ The app detects any key you press and displays its Key, Key Code, and Code in a 
 - Using event object properties (e.key, e.keyCode, e.code)
 - Dynamic HTML generation using template literals
 
-Check it out [here](https://github.com/Samy253/key-check)
+Check it out [here]([https://github.com/Samy253/key-check](https://samy253.github.io/key-check/))
